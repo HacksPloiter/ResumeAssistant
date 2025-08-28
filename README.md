@@ -1,6 +1,6 @@
-# AI Job Hunter
+# AI Resume Assistant
 
-**AI Job Hunter** is a Streamlit-based application that helps job seekers create tailored resumes and cover letters using generative AI. It evaluates resume-job fit, detects skill gaps, and offers professional suggestions—all in minutes.
+**AI Resume Assistant** is a Streamlit-based application that helps job seekers create tailored resumes and cover letters using generative AI. It evaluates resume-job fit, detects skill gaps, and offers professional suggestions—all in minutes.
 
 > Boost your application success with data-driven, personalized job materials powered by NLP and LLMs.
 
@@ -35,7 +35,7 @@
 
 ## Demo (Streamlit UI)
 
-Upload your resume and job description → Get tailored bullets, a cover letter, match score, and a summary report.
+Upload your resume and job description → Get tlored bullets, a cover letter, match score, and a summary report.
 
 ---
 
@@ -44,7 +44,7 @@ Upload your resume and job description → Get tailored bullets, a cover letter,
 - `Python` (core logic)
 - `Streamlit` (frontend)
 - `Scikit-learn` (TF-IDF vectorization)
-- `OpenAI GPT-3.5 API` (generative enhancement)
+- `Open GPT-3.5 API` (generative enhancement)
 - `PyPDF2` & `python-docx` (file reading)
 - `Regex + NLTK` (keyword extraction)
 - `Cosine Similarity` (resume-job fit)
@@ -71,7 +71,7 @@ Upload your resume and job description → Get tailored bullets, a cover letter,
    - Enhances resume bullets
    - Generates cover letter
 3. **Output**:
-   - Tailored content
+   - Tlored content
    - Match score
    - Final summary report
 
@@ -89,15 +89,15 @@ Upload your resume and job description → Get tailored bullets, a cover letter,
 
 ## Folder Structure
 
-AI-Job-Hunter/
+AI-Resume-Assistant/
 </br>
 ├── main terminal.py            # CLI version (testing/core logic)
 </br>
 ├── Streamlit app.py            # Streamlit web UI
 </br>
-├── Report - AI Job Hunter.pdf  # Full project documentation
+├── Report - AI Resume Assistant.pdf  # Full project documentation
 </br>
-├── AI Job Hunter Presentation  # Pitch-style presentation
+├── AI Resume Assistant Presentation  # Pitch-style presentation
 
 ---
 
